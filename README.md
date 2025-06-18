@@ -50,6 +50,6 @@
 
 ---
 
-## 🤝 
+## 🤝 Авторы
 
-- 👤 [Viktoriyadegt]
+- 👤 [Viktoriyadegt](https://github.com/Viktoriyadegt)
