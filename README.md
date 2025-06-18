@@ -52,4 +52,4 @@
 
 ---
 
-- 👤 [Viktoriyadegt](https://github.com/Viktoriyadegt)
+👤 [Viktoriyadegt](https://github.com/Viktoriyadegt)
