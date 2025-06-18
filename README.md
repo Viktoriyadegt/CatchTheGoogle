@@ -52,6 +52,4 @@
 
 ---
 
-## 🤝 Авторы
-
 - 👤 [Viktoriyadegt](https://github.com/Viktoriyadegt)
