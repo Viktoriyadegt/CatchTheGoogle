@@ -45,7 +45,7 @@
 
 1. Склонируй репозиторий:
    ```bash
-   git clone https://github.com/Viktoriyadegt/CatchTheGoogle.git
+   git clone https://github.com/Viktoriyadegt/catch-google.git
    ```
 
 2. Открой `index.html` в браузере.
